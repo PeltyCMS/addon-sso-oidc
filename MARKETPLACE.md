@@ -1,16 +1,5 @@
-# Marketplace copy
+# OpenID Connect
 
-**Tagline:** Sign in to PeltyCMS with OpenID Connect
+Sign in to PeltyCMS with OpenID Connect
 
-## OpenID Connect SSO for PeltyCMS
-
-OAuth/OIDC client and staff login with account linking. Configure client id/secret once; Pelty handles redirect and session.
-
-### Features
-- Client + staff SSO buttons
-- Account linking
-- Sandboxed WASM SSO provider
-
-### Requirements
-- OpenID Connect OAuth application
-
+See [README.md](README.md).
